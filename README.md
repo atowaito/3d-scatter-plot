@@ -28,7 +28,7 @@ To run this program, you need the following software:
 First, clone the project repository from GitHub.
 
 ```
-git clone https://github.com/yourusername/3d-scatter-plot.git
+git clone https://github.com/atowaito/3d-scatter-plot.git
 cd 3d-scatter-plot
 ```
 
